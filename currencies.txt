@@ -1,0 +1,6 @@
+USD
+EUR
+BTC
+JPY
+RUB
+CNY
